@@ -1,0 +1,6 @@
+{
+  "name": "agentonboard",
+  "skills": [
+    "./skills/agentonboard"
+  ]
+}
