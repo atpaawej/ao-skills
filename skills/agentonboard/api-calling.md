@@ -24,7 +24,12 @@ The partner's API documentation will tell you how to present the session token. 
 
 ## Reading partner docs
 
-When you fetch a partner's directory listing, their API documentation will tell you:
+Fetch the partner's full directory listing (including API docs) via the detail endpoint:
+
+- **With the CLI**: `aon directory get <slug>` (add `--json` for machine-readable output)
+- **With curl/fetch**: `https://api.ao.aawej.in/api/directory/<slug>`
+
+The partner's API documentation (`readme` field) will tell you:
 
 - The **base URL** to call
 - What **headers** to send (including how to present the token)
