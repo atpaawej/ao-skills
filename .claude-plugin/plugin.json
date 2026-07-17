@@ -1,6 +1,6 @@
 {
-  "name": "agentonboard",
+  "name": "ao",
   "skills": [
-    "./skills/agentonboard"
+    "./skills/ao"
   ]
 }

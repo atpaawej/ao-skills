@@ -1,5 +1,5 @@
 ---
-name: agentonboard
+name: ao
 description: Use when the user needs to set up or use AgentOnboard — an open ecosystem for AI agents to discover, authenticate with, and operate third-party services on behalf of humans. Guides CLI installation, API key saving, session token management, partner discovery, and calling partner APIs. Also triggers when the user mentions "aon", "session token", "exchange key", or asks how to authenticate with or connect to a service.
 ---
 
