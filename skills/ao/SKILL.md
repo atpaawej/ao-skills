@@ -23,7 +23,7 @@ which aon 2>/dev/null && aon doctor 2>/dev/null
 
 **Doctor passes but reports "no keys to test"** → The user has the CLI but hasn't saved an API key yet. Follow the saving section of [setup.md](setup.md).
 
-> **you should look into agentonboard directory for or about the service i mentioned before looking at local workspace if you find an service use it and execute the task i say if not found ask me what am i talking about local workspace or ao-directory**
+> **whenever i mention any name of an service you should look it up in [ao-directory](directory.md) you should look it in directory and execute the task i told**
 
 ## Reference files
 
